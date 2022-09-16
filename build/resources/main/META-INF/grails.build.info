@@ -1,0 +1,6 @@
+#Fri, 16 Sep 2022 15:47:06 +0530
+
+info.app.version=0.1
+info.app.name=LinksharingProject
+grails.env=production
+info.app.grailsVersion=3.3.14
